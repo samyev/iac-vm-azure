@@ -1,6 +1,9 @@
-# VM Azure
+# Virtual Machine Azure
 
-Configura uma VM com a infraestrutura do azure usando Terraform
+Este código configura uma VM com a infraestrutura do azure usando Terraform.
+
+## Requisitos
+- Terraform ~>1.0
 
 ## TODO
 - [x] Criar uma rede virtual
